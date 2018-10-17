@@ -51,7 +51,7 @@ mkdir esp8266com
 cd esp8266com
 git clone https://github.com/esp8266/Arduino.git esp8266
 ```
-- Download binary tools (you need Python 2.7)
+- Download binary tools (you need Python 2.7 or Python 3.4 for newer versions)
 ```bash
 cd esp8266/tools
 python get.py
